@@ -1,0 +1,16 @@
+Login Name :krishan
+Password :123
+Role :HR Manager
+----------------------------------------------------
+Login Name :maduwantha
+Password :456
+Role :HR Assistant
+----------------------------------------------------
+Login Name :Thisuri
+Password :1234
+Role :HR Manager
+----------------------------------------------------
+Login Name :Thisuri
+Password :098
+Role :HR Assistant
+----------------------------------------------------

@@ -1,0 +1,12 @@
+=============== geesuru's Employee Data =============
+Employee Name: geesuru
+Employee ID: 1000
+Department: Operations
+Designation: Supervisor
+----------------------------------------------------
+=============== saman's Employee Data =============
+Employee Name: saman
+Employee ID: 1001
+Department: Operations
+Designation: Team Captain
+----------------------------------------------------
